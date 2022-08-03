@@ -10,3 +10,5 @@ console.log(numbers.slice(1, 3));
 
 //Remove and return the last element of the array with pop()
 console.log(booleans.pop());
+
+//Index positions denote position in an array, beginning with 0, with the next position being 1 and the next 2 and so on.
